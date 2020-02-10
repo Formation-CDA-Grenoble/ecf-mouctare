@@ -70,15 +70,15 @@ Comme personne n'est parfait, il n'est pas exclu que cet examen contienne des co
 
 - A combien de types d'utilisateurs le projet s'adresse-t-il? Nommez chacun de ces types.
 
-> _Ma réponse:_
+> _Ma réponse: Le projet s'adresse à deux types d'ulisateurs, l'auteur et les lecteurs_
 
 - Combien d'applications faudra-t-il créer et quel sera le type de chacun d'entre elle?
 
-> _Ma réponse:_
+> _Ma réponse: Il faut créer deux types le bak-end et le front_
 
 - Quelles sont les fonctionnalités principales du projet? Listez-les par ordre de priorité (de la plus importante à la moins importante).
 
-> _Ma réponse:_
+> _Ma réponse: les fonctionnalités sont : la page de publication, la page de lecture , la page de connection et lee deux boutons_
 
 #### 💻 Travail à réaliser
 
@@ -86,7 +86,7 @@ En se basant sur la demande client, rédiger les spécifications fonctionnelles 
 
 Inclure votre production dans le dépôt Git, ou le **lien de partage** du tableau Trello.
 
-> _Lien de partage de mon tableau Trello:_
+> _Lien de partage de mon tableau Trello:_https://trello.com/b/pf6dMBWR/projet-librairie
 
 ---
 
@@ -99,11 +99,11 @@ Inclure votre production dans le dépôt Git, ou le **lien de partage** du table
 
 - Combien de pages sont-elles nécessaires, à votre avis, pour répondre aux spécifications fonctionnelles définies ci-dessus?
 
-> _Ma réponse:_
+> _Ma réponse: Deux pages_
 
 - A quoi le plan du site ressemblera-t-il? Quelle page permettra de passer à quelle autre?
 
-> _Ma réponse:_
+> _Ma réponse:La page de publication, permettra de passer à la page de lecture_
 
 #### 💻 Travail à réaliser
 
@@ -129,15 +129,15 @@ Réaliser des maquettes (incluant couleurs, fontes, et autres éléments de desi
 
 - Choisiriez-vous plutôt une base de données de type SQL, ou NoSQL pour ce projet? Justifiez votre choix.
 
-> _Ma réponse:_
+> _Ma réponse: SQL_
 
 - Combien d'entités sont-elles nécessaires pour ce projet, et que représenterait chacune d'entre elles? Quelles propriétés pourraient-elles avoir?
 
-> _Ma réponse:_
+> _Ma réponse:3_
 
 - Quelles relations envisageriez-vous entre ces entités? Précisez pour chaque relation: One-to-one, One-to-many, Many-to-many, composition ou aggrégation.
 
-> _Ma réponse:_
+> _Ma réponse: du OneToMany et ManyToMany_
 
 #### 💻 Travail à réaliser
 
@@ -145,7 +145,7 @@ A l'aide de l'outil de votre choix (outil suggéré: [Lucidchart](https://www.lu
 
 Inclure votre production dans votre dépôt ou donner le **lien de partage** de votre fichier.
 
-> _Lien de partage de mon MCD:_
+> _Lien de partage de mon MCD:_https:https://www.lucidchart.com/invitations/accept/523457e4-d1ce-48f7-b863-eaafa9d3024e
 
 Puis, à l'aide de l'interface de votre choix (outil suggéré: PHPMyAdmin pour une base de données MySQL/MariaDB), créez le schéma de base de données (tables, colonnes...) nécessaire au bon fonctionnement du projet.
 
